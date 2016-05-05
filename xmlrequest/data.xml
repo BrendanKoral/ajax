@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<0>
+<product>oxide</product>
+<fullname>Oxide</fullname>
+<type>fuzz</type>
+<price>220</price>
+<description>This is the Oxide Fuzz.</description>
+        </0>
+<1>
+<product>polytope</product>
+<fullname>Polytope</fullname>
+<type>chorus</type>
+<price>250</price>
+<description>Behold the Polytope!</description>
+        </1>
+<2>
+<product>frantabit</product>
+<fullname>Frantabit</fullname>
+<type>bit crusher</type>
+<price>270</price>
+<description>Crush the bits!</description>
+        </2>
+<3>
+<product>nimbus</product>
+<fullname>Nimbus</fullname>
+<type>chorus</type>
+<price>210</price>
+<description>Echo echo echo...</description>
+        </3>
+<4>
+<product>subterranea</product>
+<fullname>Subterranea</fullname>
+<type>synth</type>
+<price>240</price>
+<description>Echo echo echo...</description>
+        </4>
+<5>
+<product>xerograph</product>
+<fullname>Xerograph</fullname>
+<type>envelope</type>
+<price>200</price>
+<description>Wahp.</description>
+        </5>
+<6>
+<product>xerographdlx</product>
+<fullname>Xerograph Deluxe</fullname>
+<type>envelope</type>
+<price>220</price>
+<description>Deluxe wahp.</description>
+        </6>
+

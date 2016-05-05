@@ -1,0 +1,58 @@
+[
+	{
+	"product":"oxide",
+	"fullname":"Oxide",
+	"type":"fuzz",
+	"price":"220",
+	"description":"This is the Oxide Fuzz."
+	},
+
+{
+	"product":"polytope",
+	"fullname":"Polytope",
+	"type":"chorus",
+	"price":"250",
+	"description":"Behold the Polytope!"
+	},
+
+
+{
+	"product":"frantabit",
+	"fullname":"Frantabit",
+	"type":"bit crusher",
+	"price":"270",
+	"description":"Crush the bits!"
+	},
+
+	{
+	"product":"nimbus",
+	"fullname":"Nimbus",
+	"type":"chorus",
+	"price":"210",
+	"description":"Echo echo echo..."
+	},
+	
+	{
+	"product":"subterranea",
+	"fullname":"Subterranea",
+	"type":"synth",
+	"price":"240",
+	"description":"Echo echo echo..."
+	},
+	
+	{
+	"product":"xerograph",
+	"fullname":"Xerograph",
+	"type":"envelope",
+	"price":"200",
+	"description":"Wahp."
+	},
+	
+	{
+	"product":"xerographdlx",
+	"fullname":"Xerograph Deluxe",
+	"type":"envelope",
+	"price":"220",
+	"description":"Deluxe wahp."
+	}
+]
