@@ -26,10 +26,24 @@ request.open('GET', 'data.txt');
 
 request.onreadystatechange = function () {
     if ((request.readyState===4) && (request.status===200)) {
-        document.writeln(request.responseText);
+        //document.writeln(request.responseText);
+
+        //Select #update and insert data there
+        //var modify = document.getElementById('update');
+        //modify.innerHTML = request.responseText;
+
+
+        //Can also get elements by tag name and insert data there. In this case, LI 3
+        var modify = document.getElementsByTagName('li');
+        modify[2].innerHTML = request.responseText;
+
+        //Iterate through all LI and put data inside them
+
+        for (var i = 0; i < modify.length; i++) {
+            modify[i].innerHTML = request.responseText;
+        }
     }
 };
-
 
 request.send();
 
