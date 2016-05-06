@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66592b74-9e33-40db-915a-3d7cd8493820" name="Default" comment="" />
+    <list default="true" id="66592b74-9e33-40db-915a-3d7cd8493820" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery/index.html" afterPath="$PROJECT_DIR$/jquery/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery/script.js" afterPath="$PROJECT_DIR$/jquery/script.js" />
+    </list>
     <ignored path="ajax.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,12 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jquery/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="486">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jsonpractice.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jquery/jsonpractice.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -34,8 +49,20 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jquery/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="243">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jquery/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -76,9 +103,11 @@
         <option value="$PROJECT_DIR$/xmlrequest/script.js" />
         <option value="$PROJECT_DIR$/jsonrequest/index.html" />
         <option value="$PROJECT_DIR$/jsonrequest/script.js" />
-        <option value="$PROJECT_DIR$/jquery/script.js" />
         <option value="$PROJECT_DIR$/jquery/data.txt" />
+        <option value="$PROJECT_DIR$/jquery/script.js" />
+        <option value="$PROJECT_DIR$/jquery/data.json" />
         <option value="$PROJECT_DIR$/jquery/index.html" />
+        <option value="$PROJECT_DIR$/jquery/jsonpractice.js" />
       </list>
     </option>
   </component>
@@ -239,12 +268,12 @@
       <option name="presentableId" value="Default" />
       <updated>1462414490155</updated>
       <workItem from="1462414491306" duration="3924000" />
-      <workItem from="1462483470308" duration="5960000" />
+      <workItem from="1462483470308" duration="6679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9884000" />
+    <option name="totallyTimeSpent" value="10603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-230" width="1936" height="1056" extended-state="6" />
@@ -379,19 +408,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jquery/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jquery/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="243">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="486">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery/jsonpractice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
